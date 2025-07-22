@@ -6,3 +6,6 @@ matplotlib
 pandas
 numpy
 nbformat
+flask
+pickle
+requests

@@ -28,7 +28,7 @@ env/
 
 # IDE-specific files
 .idea/
+.DS_Store
 
-scaler.pkl
-
-# Data/
+# Data
+Data
