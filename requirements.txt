@@ -7,5 +7,6 @@ pandas
 numpy
 nbformat
 flask
-pickle
+# pickle
 requests
+seaborn
